@@ -1,0 +1,20 @@
+h1 {
+    text-align: center;
+    color: blue;
+}
+
+#satu {
+    color: green;
+}
+
+#dua {
+    color: orange;
+}
+
+.nama {
+    font-family: sans-serif;
+    text-align: left;
+    font-size: 20px;
+    padding-left: 0px;
+    margin-left: 0px;
+}
